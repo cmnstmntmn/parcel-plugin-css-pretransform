@@ -1,0 +1,15 @@
+{
+	"name": "parcel-plugin-css-pretransform",
+	"version": "1.0.0",
+	"description": "Modify parcel to transform CSS assets earlier, before imports, enabling bundle-wide transforms with postcss-imports",
+	"author": "Samuel Cochran <sj26@sj26.com>",
+	"homepage": "https://github.com/sj26/parcel-plugin-css-pretransform",
+	"license": "MIT",
+	"main": "index.js",
+	"peerDependencies": {
+		"parcel-bundler": "^1.11.0"
+	},
+	"engines": {
+		"node": ">=8"
+	}
+}
