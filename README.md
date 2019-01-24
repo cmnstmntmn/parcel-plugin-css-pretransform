@@ -17,7 +17,7 @@ yarn add --dev parcel-plugin-css-pretransform
 
 Parcel will automagically require it during processing.
 
-If you have postcss-imports installed already then you can confirm it works by
+If you have postcss-import installed already then you can confirm it works by
 running `parcel build --detailed-report my.css` before and after:
 
 ```
